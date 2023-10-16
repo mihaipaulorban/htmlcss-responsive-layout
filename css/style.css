@@ -5,3 +5,43 @@
 @import "/css/_partials/responsive.css";
 @import "/css/_partials/typography.css";
 
+
+/* 
+
+
+COLOR PALETTE
+
+
+#0084fd  Blue
+
+#b5ddff  Aqua
+
+#9792e4  Violet
+
+#fdc15f  Orange
+
+#333333  Dark Grey
+
+*/
+
+/* HEADER */
+
+header {
+    width: 100%;
+    height: auto;
+    padding: 10px 0;
+    background-color:#0084fd;
+    display: flex;
+    justify-content: center;
+    
+}
+
+nav {
+    display: flex;
+}
+
+header .container {
+    align-items: center;
+    justify-content: space-between;
+}
+
