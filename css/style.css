@@ -311,7 +311,7 @@ header ul a:last-child {
 
     font-size: 20px;
     background-color:rgb(139,133,223);
-    width: fit-content;
+    width: 40px;
     padding: 10px;
     border-radius: 50%;
 }
